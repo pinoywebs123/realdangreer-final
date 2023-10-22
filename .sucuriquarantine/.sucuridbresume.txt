@@ -1,0 +1,2 @@
+wp_yoast_seo_links
+region

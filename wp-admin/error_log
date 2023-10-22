@@ -1,0 +1,11 @@
+[13-Jun-2023 11:09:07 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 57344 bytes) in /home7/dangreerituldev/public_html/wp-includes/class-wpdb.php on line 2397
+[13-Jun-2023 11:09:14 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) in /home7/dangreerituldev/public_html/wp-includes/class-wpdb.php on line 2397
+[13-Jun-2023 11:09:21 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) in /home7/dangreerituldev/public_html/wp-includes/class-wpdb.php on line 2397
+[13-Jun-2023 11:09:56 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 45056 bytes) in /home7/dangreerituldev/public_html/wp-includes/class-wpdb.php on line 2397
+[13-Jun-2023 11:10:10 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 45056 bytes) in /home7/dangreerituldev/public_html/wp-includes/class-wpdb.php on line 2397
+[13-Jun-2023 11:11:56 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 49152 bytes) in /home7/dangreerituldev/public_html/wp-includes/class-wpdb.php on line 2397
+[13-Jun-2023 11:18:30 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 45056 bytes) in /home7/dangreerituldev/public_html/wp-includes/class-wpdb.php on line 2397
+[13-Jun-2023 12:36:26 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 45056 bytes) in /home7/dangreerituldev/public_html/wp-includes/class-wpdb.php on line 2397
+[13-Jun-2023 12:39:47 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 45056 bytes) in /home7/dangreerituldev/public_html/wp-includes/class-wpdb.php on line 2397
+[13-Jun-2023 12:40:02 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 57344 bytes) in /home7/dangreerituldev/public_html/wp-includes/class-wpdb.php on line 2397
+[13-Jun-2023 13:18:50 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 45056 bytes) in /home7/dangreerituldev/public_html/wp-includes/class-wpdb.php on line 2397

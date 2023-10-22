@@ -1,0 +1,4 @@
+[14-Jul-2023 22:33:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home7/dangreerituldev/public_html/wp-content/themes/eclipse-dot/index.php:15
+Stack trace:
+#0 {main}
+  thrown in /home7/dangreerituldev/public_html/wp-content/themes/eclipse-dot/index.php on line 15

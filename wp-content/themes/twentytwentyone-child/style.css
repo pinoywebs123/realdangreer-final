@@ -1,0 +1,42 @@
+/*
+Theme Name: Twenty Twenty-One Child
+Theme URI: https://wordpress.org/themes/twentytwentyone/
+Template: twentytwentyone
+Author: the WordPress team
+Author URI: https://wordpress.org/
+Description: Twenty Twenty-One is a blank canvas for your ideas and it makes the block editor your best brush. With new block patterns, which allow you to create a beautiful layout in a matter of seconds, this theme’s soft colors and eye-catching — yet timeless — design will let your work shine. Take it for a spin! See how Twenty Twenty-One elevates your portfolio, business website, or personal blog.
+Tags: one-column,accessibility-ready,custom-colors,custom-menu,custom-logo,editor-style,featured-images,footer-widgets,block-patterns,rtl-language-support,sticky-post,threaded-comments,translation-ready
+Version: 1.7.1675431331
+Updated: 2023-02-03 13:35:31
+
+*/
+
+.sub-menu-toggle {display:none;}
+.mb-0 { margin-bottom:0px !important}
+.form-control input.wpcf7-form-control { font-size:16px; padding:10px 15px; width:100%; color:#AEB5BF; background-color:#ffffff24; border:none}
+.form-control textarea.wpcf7-form-control { font-size:16px; padding:10px 15px; width:100%; color:#AEB5BF; background-color:#ffffff24; border:none}
+.form-control textarea.wpcf7-form-control:focus{ outline:none; border:none}
+.mb-3 { margin-bottom:15px}
+
+.form-control input.wpcf7-form-control::-webkit-input-placeholder, .form-control textarea.wpcf7-form-control::-webkit-input-placeholder { /* Edge */
+color:#AEB5BF;
+}
+
+.form-control input.wpcf7-form-control:-ms-input-placeholder, .form-control textarea.wpcf7-form-control::-webkit-input-placeholder { /* Internet Explorer 10-11 */
+  color:#AEB5BF;
+}
+
+.form-control input.wpcf7-form-control::placeholder,  .form-control textarea.wpcf7-form-control::-webkit-input-placeholder  {
+  color:#AEB5BF;
+}
+
+
+.form-control input.wpcf7-submit{font-family: "Roboto", Sans-serif;
+    font-size: 14px;
+    font-weight: 700; width:auto;
+	color:#fff !important;
+	text-transform:uppercase;
+    background-color: transparent;
+    background-image: linear-gradient(123deg, #FF8A50 0%, #E94D00 100%);
+    border-radius: 50px 50px 50px 50px;
+    padding: 12px 50px 12px 50px;}
